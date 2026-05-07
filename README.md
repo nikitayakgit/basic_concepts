@@ -1,5 +1,4 @@
-This repo is created to keep track of all of the exercises completed from Python Basics Book by David Amos, starting chapter 10 - OOP, onward
+chapter 11 modules and packages. Each folder contains its respective files for the screenshots below.
 
-Contents:
-
-chapter10-oop, as name suggests an example of object oriented programming
+Working with modules:
+<img width="649" height="583" alt="image" src="https://github.com/user-attachments/assets/601dd587-62ef-4bb5-bd1e-539d3804c972" />
